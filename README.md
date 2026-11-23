@@ -103,10 +103,8 @@ plt.tight_layout()
 plt.show()  
 
 ## Output
-
-     <img width="782" height="485" alt="image" src="https://github.com/user-attachments/assets/edd350a0-c712-443b-94eb-d4a40c69d116" />
-     
-     A line graph displaying:
+<img width="1141" height="700" alt="image" src="https://github.com/user-attachments/assets/61485fef-69ca-4c4a-b989-f318d43850a6" />
+A line graph displaying:
 - Revenue from 2017 to 2023.
 - Expenses from 2017 to 2023.
 - Highest Revenue: 52 Lakhs.
